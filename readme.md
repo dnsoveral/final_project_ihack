@@ -1,4 +1,4 @@
-# Final Project Ironhack - Chez Ratatouille Helper
+# Final Project Ironhack - Chez Ratatouille
 
 ## Introduction
 
